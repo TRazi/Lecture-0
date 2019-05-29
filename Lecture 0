@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
-
-	<title></title>
-
-<body></body>
-
+	<head>
+		<title> Lecture 0 CS50</title>
+	</head>
+<body>
+<p>Hello, World!</p>
+</body>
 </html>
